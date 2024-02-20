@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[641],{9348:s=>{s.exports=JSON.parse('{"label":"greetings","permalink":"/docusaurusstudy1/zh-Hans/blog/tags/greetings","allTagsPath":"/docusaurusstudy1/zh-Hans/blog/tags","count":1,"unlisted":false}')}}]);
